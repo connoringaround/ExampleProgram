@@ -9,6 +9,8 @@ namespace Playground1.Models
     {
 
         public String Slide { get; set; }
+        public String Swing { get; set; }
+        public Int32 Table  { get; set; }
 
   
     }
